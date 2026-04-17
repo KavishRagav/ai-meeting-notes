@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+.env.production
+.env.local
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Azure
+*.zip
+.azure/
+
+# VS Code
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
